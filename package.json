@@ -7,7 +7,7 @@
     "lint": "eslint src"
   },
   "bin": {
-    "sommouns-cli": "./bin/www"  
+    "sommouns-cli": "./bin/www"
   },
   "keywords": [],
   "author": "",
